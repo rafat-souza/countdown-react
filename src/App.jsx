@@ -11,7 +11,7 @@ function App() {
 
   let eventImage = null;
 
-  if (event) eventImage - event.image;
+  if (event) eventImage = event.image;
 
   return (
     <div
